@@ -1,0 +1,15 @@
+{
+  "name": "UFA888",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "UFA888 เว็บแทงบอลออนไลน์ ยอดฮิตติดลมบนที่มีผู้เล่นมากที่สุด",
+  "keywords": [
+    "UFA888",
+    "ข่าวฟุตบอล"
+  ],
+  "repository": "https://github.com/open8888/ufa8888",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.13.0 <2.0.0"
+  }
+}
